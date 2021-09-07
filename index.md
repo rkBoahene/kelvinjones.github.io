@@ -120,42 +120,40 @@
             style="background-image: url(img/banner.jpg)"
           > 
             <div class="carousel-caption">
-              
-              <div class="col-md-6 col-lg-6" style="position: relative;">
-                <div >
-                  <h2
-                  data-wow-duration="700ms"
-                  data-wow-delay="500ms"
-                  class="wow bounceInDown animated"
-                >
-                    Hello, i'm <span> Kelvin.</span>
-                  </h2>
-                  <h3 data-wow-duration="1000ms" class="wow slideInLeft animated">
-                    A <span class="color">creative graphic designer</span> with a lot of experience and fun to work with.
-                  </h3>
-            
-
-                  <ul class="social-links text-center">
-                    <li>
-                      <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
-                    </li>
-                    
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-6" style="float: right;position:relative;">
-                <img src="img/yormi.jpeg" alt="image of myself" class="img-responsive img-rounded" style="max-width: 350px;" data-wow-duration="700ms"
-                >
-              </div>
              
-            
+                <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12" >
+                  <div >
+                    <h2
+                    data-wow-duration="700ms"
+                    data-wow-delay="500ms"
+                    class="wow bounceInDown animated"
+                  >
+                      Hello, i'm <span> Kelvin.</span>
+                    </h2>
+                    <h3 data-wow-duration="1000ms" class="wow slideInLeft animated">
+                      A <span class="color">creative graphic designer</span> with a lot of experience and fun to work with.
+                    </h3>
               
+
+                    <ul class="social-links text-center">
+                      <li>
+                        <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12" style="float: right;position:relative;">
+                  <img src="img/yormi.jpeg" alt="image of myself" class=" img-rounded" style="max-width: 350px;margin: auto;" data-wow-duration="700ms"
+                  >
+                </div>
+            
             </div>
           </div>
           <!-- end single slide -->
